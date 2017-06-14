@@ -1,3 +1,3 @@
-deployment:
-  production:
-    branch: master
+test:
+  override:
+    -nosetests
