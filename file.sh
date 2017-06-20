@@ -1,2 +1,2 @@
-gcc file.c
+gcc py.c
 ./a.out
