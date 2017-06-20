@@ -1,3 +1,5 @@
 machine:
   dependency:
-    - file.exe
+    - file.sh
+deployment:
+  branch: master
