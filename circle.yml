@@ -1,5 +1,2 @@
-machine:
-  dependency:
-    - file.sh
 deployment:
   branch: master
